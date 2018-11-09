@@ -1,0 +1,95 @@
+.btn-white {
+	background-color: white;
+	color: rgb(196,168,72);
+	border-color: rgb(196,168,72);
+}
+.btn-gold{
+	background-color: rgb(196,168,72);
+	color: white;
+	border-color: rgb(196,168,72);
+}
+.picture{
+	max-width: 100%
+}
+
+.btn-primary {
+	border-radius: 0;
+}
+
+.btn-secondary {
+		border-radius: 0;
+}
+.header{
+	min-height: 100px;
+	background-color: white;
+	margin-bottom:100px; 
+}
+.separator-top{margin-top: 100px;}
+
+.icone-lateral {
+	z-index: 10;
+	position: fixed;
+	right:15px;
+	top:40%;
+	background-image:url(images/fond_rs.png);
+	background-size:95px;
+	font-size:80px;
+	color: black;
+	font-weight:300px;
+	min-height: 100px;
+
+}
+.fa-facebook{
+	color: black;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+	margin-right: 20px;
+	font-size: 40px;
+	padding: 5px;
+
+}
+.fa-youtube{
+	color: black;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	font-size: 40px;
+
+}
+
+.fa-snapchat{
+	color: black;
+	margin-left: 30px;
+	margin-bottom:10px;
+	margin-right: 20px;
+	font-size: 40px;
+	padding: 0px;
+}
+.fa-twitter{
+	color: black;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	margin-right: 20px;
+	font-size: 40px;
+	padding: 0px;
+}
+.progress{
+	background-color:white;
+	color: yellow;
+}
+.progress-bar{
+	color: black;
+	background-color:rgb(196,168,72);
+}
+
+
+
+
+
+
+
+
+
+
+
